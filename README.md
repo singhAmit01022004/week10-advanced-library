@@ -18,3 +18,13 @@ A custom-built Python library demonstrating advanced concepts like decorators, g
 ---
 
 ## 📂 Project Structure
+week10-advanced-library/
+│── src/
+│ ├── my_advanced_lib/
+│ │ ├── core/
+│ │ ├── utils/
+│ │ ├── exceptions.py
+│ │ └── types.py
+│── tests/
+│── examples/
+│── docs/
